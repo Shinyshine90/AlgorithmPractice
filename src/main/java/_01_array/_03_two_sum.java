@@ -1,4 +1,4 @@
-package _01array;
+package _01_array;
 
 import java.util.*;
 
